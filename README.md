@@ -5,11 +5,11 @@ Additively manufactured particle damper
 
 
 [Modeling](modeling)
-1. Numerical modeling of the beam particle daper
-
+1. Numerical modeling of the beam particle damper
+2. Instructions on running YADE simulation of particle damper
 
 [Experimental](experimental)
-1. Experimental work for the beam particle daper
+1. Experimental work for the beam particle damper
 
 
 ## Licensing and Citation
